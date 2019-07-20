@@ -1,0 +1,3 @@
+name: RichRanking
+version: ${project.version}
+main: bounen057.richranking.RichRanking
